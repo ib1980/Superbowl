@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Superbowl</string>
+    <string name="las_vegas_raiders">las vegas raiders</string>
+    <string name="raiders_score">0</string>
+    <string name="raiders_touchdown">touchdown +7</string>
+    <string name="raiders_extra_point">extra point +1</string>
+    <string name="raiders_field_goal">field goal +3</string>
+    <string name="raiders_saftey">saftey -2</string>
+    <string name="los_angeles_rams">los angeles rams</string>
+    <string name="rams_score">0</string>
+    <string name="rams_touchdown">touchdown +7</string>
+    <string name="rams_extra_point">extra point +1</string>
+    <string name="field_goal_3_rams">field goal +3</string>
+    <string name="rams_saftey">saftey -2</string>
+    <string name="reset_score">reset score</string>
+
+</resources>
